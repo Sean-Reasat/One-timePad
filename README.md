@@ -1,3 +1,3 @@
 # One-time Pad
-[historical context](Historical-context/HistoricalContext.md)
-[Mechanics](Mechanics.md)
+# [historical context](Historical-context/HistoricalContext.md)
+# [Mechanics](Mechanics.md)
