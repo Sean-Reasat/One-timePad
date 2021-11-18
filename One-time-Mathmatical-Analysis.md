@@ -1,1 +1,1 @@
-# Mathmatical Analysis
+# Mathematical Analysis
