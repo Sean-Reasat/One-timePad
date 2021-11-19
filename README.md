@@ -1,10 +1,10 @@
 # One-time Pad
-[Historical context](Historical-context/HistoricalContext.md)
+[Historical context](One-time-HistoricalContext.md)
 
-[Mechanics](Mechanics.md)
+[Mechanics](One-Time-Mechanics.md)
 
-[Mathematical analysis](Mathematticalanalysis.md)
+[Mathematical analysis](One-time-Mathmatical-Analysis.md)
 
-[Computer Code](Computercode.md)
+[Computer Code](One-time-Computer-code.md)
 
-[Final analysis](Finalanalysis.md)
+[Final analysis](One-time-Final-Analysis.md)
